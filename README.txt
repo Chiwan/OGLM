@@ -1,0 +1,1 @@
+Voici le readMe du projet de l'équipe Fly Squirrel, composé de Jean-Phillipe Kha, Rémi Poutier et Quentin Cornevin.
